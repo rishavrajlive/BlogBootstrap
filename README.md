@@ -1,4 +1,4 @@
-# BlogBootstrap
+# BlogBootstrap (iCoder)
 This is the blog made from bootstrap tutorial code with harry
 
 Link to the youtube tutorial:
